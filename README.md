@@ -3,7 +3,7 @@ This is a simple Hello World application written in JavaScript that displays a g
 
 The purpose of this software is to demonstrate my ability to set up a development environment, write clean code, and publish projects to GitHub while following professional software development practices.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/6NypfwxKIHg)
 
 # Development Environment
 
